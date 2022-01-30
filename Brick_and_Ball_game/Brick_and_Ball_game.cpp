@@ -23,7 +23,7 @@ bool Bricks_hit, Slider_hit, Ball_dropped;
 int main()
 {
     cout << "Maximize the screen and press enter to continue....";
-    cout << "Test";
+    cout << "Test.";
     char enter = getchar();
     system("CLS");
     //hide_cursor();
