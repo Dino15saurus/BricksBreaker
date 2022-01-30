@@ -1,0 +1,10 @@
+﻿  Ball.cpp
+F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Brick_and_Ball_game\Ball.cpp(82,23): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Brick_and_Ball_game\Ball.cpp(86,23): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Brick_and_Ball_game\Ball.cpp(151,69): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Brick_and_Ball_game\Ball.cpp(235,69): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Brick_and_Ball_game\Ball.cpp(318,69): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Brick_and_Ball_game\Ball.cpp(330,12): warning C4018: '>=': signed/unsigned mismatch
+F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Brick_and_Ball_game\Ball.cpp(441,68): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Brick_and_Ball_game\Ball.cpp(454,12): warning C4018: '>=': signed/unsigned mismatch
+  Brick_and_Ball_game.vcxproj -> F:\My_Projects\(3) C++_Projects\Brick_and_Ball_game\Debug\Brick_and_Ball_game.exe
