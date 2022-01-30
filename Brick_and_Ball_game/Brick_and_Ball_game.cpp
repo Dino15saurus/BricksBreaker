@@ -27,6 +27,7 @@ int main()
     system("CLS");
     //hide_cursor();
 
+
     //Init variables
     Bricks_hit = false;
     Slider_hit = false;
