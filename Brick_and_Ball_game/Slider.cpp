@@ -7,7 +7,7 @@ using namespace std;
 
 #define SLIDER_WIDTH 20
 #define SLIDER_HEIGHT 1
-#define SLIDER_START_X 100
+#define SLIDER_START_X 200
 #define SLIDER_START_Y 60
 #define SLIDER_X_MAX 235 - SLIDER_WIDTH
 #define SLIDER_X_MIN 5
