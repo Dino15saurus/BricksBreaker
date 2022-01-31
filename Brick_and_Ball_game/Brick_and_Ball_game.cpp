@@ -113,6 +113,3 @@ void printScreen(void)
     }
     
 }
-
-
-//
